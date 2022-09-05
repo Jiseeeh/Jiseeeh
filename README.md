@@ -4,8 +4,6 @@
 
 ![views](https://komarev.com/ghpvc/?username=Jiseeeh&color=e14f8d)
 
-I also use this alt account of mine [Doggo](https://github.com/doggo-qt)
-
 ## Github stats
 
 ![Jiseeeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseeeh&show_icons=true&theme=radical)
