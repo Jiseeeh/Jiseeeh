@@ -17,7 +17,6 @@ My name is **John Carlo N. Camara** and I am currently exploring **Web Developme
  <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
  <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />
  <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
-  <img height="40" src="https://icon-library.com/images/white-plus-icon/white-plus-icon-3.jpg" alt="plus icon" title="plus icon" />
   <img height="50" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="Prisma" title="Prisma" />
   <img height="50" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" title="Vite" />
 </div>
