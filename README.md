@@ -1,6 +1,6 @@
 # :wave: Hi there!
 
-My name is **John Carlo N. Camara** and I am currently exploring **Web Development,** but I find ***Game Development*** more exciting (I might try it someday.. :octocat:)
+My name is **John Carlo N. Camara** and I am currently exploring **Web Development,** but I find ***Game Development*** more exciting (I might try it someday. :octocat:)
 
 ## 🌐 Socials:
 [<img height="50" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" alt="Discord" title="My Discord link" />](https://discord.com/users/311042880712081408)
